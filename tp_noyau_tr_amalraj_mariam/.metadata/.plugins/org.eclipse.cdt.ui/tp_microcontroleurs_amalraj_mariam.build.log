@@ -1,0 +1,10 @@
+17:26:22 **** Incremental Build of configuration Debug for project tp_microcontroleurs_amalraj_mariam ****
+make -j8 all 
+arm-none-eabi-size  tp_microcontroleurs_amalraj_mariam.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17592	    104	   2144	  19840	   4d80	tp_microcontroleurs_amalraj_mariam.elf
+Finished building: default.size.stdout
+ 
+
+17:26:22 Build Finished. 0 errors, 0 warnings. (took 281ms)
+

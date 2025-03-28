@@ -1,0 +1,2 @@
+../Core/Src/sgtl5000.c:4:6:SGTL5000_WriteRegister	40	static
+../Core/Src/sgtl5000.c:13:6:SGTL5000_Init	16	static
